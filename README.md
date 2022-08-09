@@ -1,4 +1,4 @@
-## ❔ About me 
+## ❔ About myself 
 ***
 **I'am a Developer and Game Maker I'm interesting with JS Codes And I'm Experienced On Node.js**
 ## 📊 My Stats 
