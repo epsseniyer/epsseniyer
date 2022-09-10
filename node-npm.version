@@ -1,0 +1,3 @@
+var Node = "18.7.0"
+var NPM = "1.2.x"
+var Client = "8.x.x"
