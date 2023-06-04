@@ -1,6 +1,6 @@
 ## ❔ About myself 
 ***
-**I'am a Developer and Game Maker I'm interesting with JS Codes And I'm Experienced On Node.js**
+**I'am a Developer and Game Maker I'm interesting with Every Code Language**
 ## 📊 My Stats 
 ***
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=epsseniyer&show_icons=true&theme=radical)
