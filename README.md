@@ -4,9 +4,9 @@ Hi guys! I'm **Melih or Ivan** , I'm a **Developer** tryna be a **masterpiece** 
 
 ## 📊 My Coding Stats 
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=epsseniyer&show_icons=true&theme=dracula)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=epsseniyer&show_icons=true&theme=dracula)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsseniyer&theme=dracula&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsseniyer&theme=dracula&layout=compact)
 
 ## 🛠 Languages And Tool I Used
 ***
