@@ -28,7 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://i.imgflip.com/1ynuhs.jpg" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=epsseniyer&icon=6&color=8)](https://visitcount.itsvg.in)
