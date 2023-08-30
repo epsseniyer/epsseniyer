@@ -1,9 +1,14 @@
 # 💫About Me :
 💻I'm Currently Working on my Own Programming Language.
+
 ✨I'm looking  to collaborate on open-source projects.
+
 🎁I'm looking for members for my team.
+
 🌱I'm currently learning everything.
+
 💬Ask me about absolutly everything.
+
 👌Fun fact, I'm learning everything for twice because of I forgot everything.
 
 ## 🌐Socials
